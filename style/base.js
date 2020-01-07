@@ -1,0 +1,9 @@
+require('@common/assets/fonts/Beatrice-Extrabold.eot');
+require('@common/assets/fonts/Beatrice-Extrabold.woff2');
+require('@common/assets/fonts/Beatrice-Extrabold.woff');
+require('@common/assets/fonts/Beatrice-Extrabold.svg');
+require('@common/assets/fonts/corben-v13-latin-regular.eot');
+require('@common/assets/fonts/corben-v13-latin-regular.svg');
+require('@common/assets/fonts/corben-v13-latin-regular.ttf');
+require('@common/assets/fonts/corben-v13-latin-regular.woff');
+require('@common/assets/fonts/corben-v13-latin-regular.woff2');
